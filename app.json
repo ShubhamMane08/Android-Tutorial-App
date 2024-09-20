@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "bike-clinic",
+    "slug": "bike-clinic-slug",
+    "version": "1.0.0",
+    "ios": {
+      "bundleIdentifier": "com.kc.bike-clinic"
+    },
+    "android": {
+      "package": "com.ecstaticknc.yourappslug"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "81fdf3e0-8d63-4c29-aec8-8252abe552bb"
+      }
+    }
+  }
+}

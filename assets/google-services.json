@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "146788304802",
+    "firebase_url": "https://samarth-caterers-db6f9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "samarth-caterers-db6f9",
+    "storage_bucket": "samarth-caterers-db6f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146788304802:android:c093f7b170876c6f3c14fb",
+        "android_client_info": {
+          "package_name": "com.samarthcaterers.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTD3orMjY-MNX3dBoKSHLYs510MyOw0fM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
